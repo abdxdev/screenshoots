@@ -2,7 +2,7 @@
 
 Decorate screens and build 3D isometric galleries — all in your browser.
 
-![screenshot](screenshots/screenshot_1.png)
+![screenshot](https://github.com/abdxdev/screenshoots/blob/main/screenshots/screenshot_1.png?raw=true)
 
 ## Try it now
 
