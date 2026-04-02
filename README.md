@@ -6,7 +6,7 @@ Decorate screens and build 3D isometric galleries — all in your browser.
 
 ## Try it now
 
-Visit: [screenshoots.abd-dev.studio](https://screenshoots.abd-dev.studio/)
+Visit: [screenshoots.vercel.app](https://screenshoots.vercel.app/)
 
 ## What’s inside
 
